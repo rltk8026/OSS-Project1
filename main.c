@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Open Source SW Project\n");
+  printf("fuck you kim jin yeong\n");
   return 0;
 }  
