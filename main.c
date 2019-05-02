@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("Nam Pang seong\n"); 
+  printf("fuck you Nam Pang seong\n"); 
   
   return 0;
 }  
