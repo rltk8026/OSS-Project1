@@ -3,7 +3,11 @@
 int main()
 {
   printf("Nam Pang seong\n"); 
-  printf("sadsadsadasdadasdadasdadasdsasdas");
+  printf("sadsadsadasdadasdadasdadasdsasdas\n");
+
+
+
+  prnintf("1111");
   
   return 0;
 }  
