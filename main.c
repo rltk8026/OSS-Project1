@@ -3,7 +3,13 @@
 int main()
 {
   printf("Nam Pang seong\n"); 
-  printf("sadsadsadasdadasdadasdadasdsasdas");
+  printf("sadsadsadasdadasdadasdadasdsasdas\n");
+
+
+
+
+  
+  printf("2222\n");
   
   return 0;
 }  
