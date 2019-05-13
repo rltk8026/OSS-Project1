@@ -8,6 +8,9 @@ int main()
 
 
   prnintf("1111");
+
+  
+  printf("2222\n");
   
   return 0;
 }  
